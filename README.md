@@ -16,7 +16,7 @@ Guía completa y oficial para configurar **modo Bridge puro** en fibra óptica d
 - Mantener telefonía y TV IP
 
 ### Descarga directa del PDF
-[📥 Descargar Instructivo completo (PDF)](Instructivo-ONT-Huawei-Modo-Bridge-Telecom-2024.pdf)
+[📥 Descargar Instructivo completo (PDF)](https://github.com/angelettif/ont-huawei-bridge-telecom-personal-flow-argentina/blob/main/guia-ont-modo-bridge-argentina.pdf)
 
 ### Pasos principales (resumen)
 1. Verificar servicio activo
